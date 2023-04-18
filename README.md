@@ -1,4 +1,4 @@
-# nuxt-test
+# anime-ratings
 
 ## Build Setup
 
